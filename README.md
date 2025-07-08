@@ -1,6 +1,7 @@
 🎨 Creative Use Restricted License (CURL)
 Version 1.0 — July 8th, 2025
 Created by Błażej Jurand Wiliński (4valon, Navalon, 4valongaming)
+________________________________________
 
 1. 📬 LICENSING YOUR OWN WORK UNDER CURL
 To apply the CURL license to your own work, provide the following information in your project’s description, README file, social media post or video info:
